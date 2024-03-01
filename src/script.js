@@ -24,5 +24,5 @@ function unDo() {
    */
     document.getElementById("image").style.backgroundImage = "url('')";
 
-    document.getElementById("image").innerHTML = "Hover over an image below to display here.";
+    document.getElementById("image").innerHTML = "Đưa chuột vào ảnh muốn xem";
 }
